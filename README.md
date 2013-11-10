@@ -5,8 +5,8 @@ Stable Fluids 3D
 
 Reference
 ================
-[1] Stam J. Real-time fluid dynamics for games[C]
-[2] Fedkiw R, Stam J, Jensen H W. Visual simulation of smoke[C]
+[1] Stam J. Real-time fluid dynamics for games[C] <br>
+[2] Fedkiw R, Stam J, Jensen H W. Visual simulation of smoke[C] <br>
 [3] Stam J. Stable fluids[C]
 
 TODO
